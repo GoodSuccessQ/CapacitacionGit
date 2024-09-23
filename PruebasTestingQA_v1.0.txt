@@ -12,3 +12,4 @@ PRUEBAS REALIZADAS 23/09/2024
 
 estoy en QA
 qa x2
+nuevo qa 2
